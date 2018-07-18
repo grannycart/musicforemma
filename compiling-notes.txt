@@ -1,3 +1,19 @@
+Updated: 3/18/17
+
+I ditched the texfiles directory, and compiled without the css config file.
+I want to post this on tumblr now, so I'm trying to keep the html as simple as possible. 
+
+So this is compiled with:
+htlatex ./MusicforEmma.tex "marks-htlatex-plain-html.cfg,-css,NoFonts"
+
+the -css makes htlatex not use css (particularly span tags)
+The marks-htlatex-plain.cfg file just contains a couple of handlers for \textit \textbr and \emph which would otherwise have to handled with css. 
+basically all that is needed to get pretty simple html output out of htlatex.
+The outputted .html file is then dumped onto tumblr.
+
+At some point in the future if you want to use this to build a standalone web page for Music For Emma, see the directions below.
+
+----
 The musicforemma is intended to be not like other content on dynohub.net.
 This is just this one-off thing for emma.
 NOTE: because of the size of the tracks file, it is not included in the this git directory. It is only in the live html directory. Keep that in mind if you do any updates, and want to test locally or something.

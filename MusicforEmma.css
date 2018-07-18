@@ -4,8 +4,6 @@
 .cmr-12{font-size:120%;}
 .cmti-10{ font-style: italic;}
 .cmbx-10{ font-weight: bold;}
-.cmr-9{font-size:90%;}
-.cmti-9{font-size:90%; font-style: italic;}
 p.noindent { text-indent: 0em }
 td p.noindent { text-indent: 0em; margin-top:0em; }
 p.nopar { text-indent: 0em; }
@@ -113,9 +111,5 @@ div.author{white-space: nowrap;}
 .quotation {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; }
 .abstract p {margin-left:5%; margin-right:5%;}
 div.abstract {width:100%;}
-.figure img.graphics {margin-left:10%;}
-body { color: darkslategray; }
-body { font-family: sans-serif; }
-html { max-width: 520px; margin: 0 auto; }
 /* end css.sty */
 
