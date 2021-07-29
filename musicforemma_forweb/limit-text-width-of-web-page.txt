@@ -1,7 +1,0 @@
-To limit the max width of the text of the music for emma page,
-add this line to the top of the *.css file:
-
-html { max-width: 520px; margin: 0 auto; }
-
-
-
