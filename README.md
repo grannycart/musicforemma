@@ -1,12 +1,10 @@
 
 # Music For Emma
-* By Mort Rye
+* By Mark Torrey
 
 
 ## Notes / to dos
-* [ ] The .tex file is the original. The .md file is from an online conversion tool and needs to be cleaned up.
-	* The -2.md file was converted by pandoc, and looks cleaner than the one the online conversion did.
-
+* Music for Emma was originally written in Latex. I have since converted it to markdown. See the .md file. 
 
 ## License:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
