@@ -1,23 +1,11 @@
 ---
 author:
-- "--- --- ---"
+- "Mark Torrey"
 date: November 2, 2014
 title: Music for Emma
 ---
 
-*This is a mix I made for my 15 year old sister Emma. At some point in
-her life Emma will be at a party full of cool smart people, and someone
-will ask her to pick some music to play. I would hope (as my sister) she
-would have the confidence to choose music in such a way that it jams the
-party right into the appropriate gear. The songs selected here are not
-obscure hidden gems, or challenging boundary pushers (not that there's
-anything wrong with boundary pushing), just some of my favorite tracks
-from some of the most important people in the history of pop music. But
-since I don't think it is fair to just dump music on someone and expect
-them to try to figure out why it is good, I wrote some brief
-descriptions to help fill in the story for her. This whole project is,
-by necessity, an exercise in hyperbole. Sorry about that.*\
-\
+_This is a mix I made for my 15 year old sister Emma. At some point in her life Emma will be at a party full of cool smart people, and someone will ask her to pick some music to play. I would hope (as my sister) she would have the confidence to choose music in such a way that it jams the party right into the appropriate gear. The songs selected here are not obscure hidden gems, or challenging boundary pushers (not that there's anything wrong with boundary pushing), just some of my favorite tracks from some of the most important people in the history of pop music. But since I don't think it is fair to just dump music on someone and expect them to try to figure out why it is good, I wrote some brief descriptions to help fill in the story for her. This whole project is, by necessity, an exercise in hyperbole. Sorry about that._
 
 # Blind Willie Johnson
 
@@ -26,7 +14,7 @@ Crosby Stills Nash and Young, there was a crazy artist living in New
 York City named Harry Smith. He collected records of old-timey mountain
 folks from the south, singing songs passed down from one family member
 to another for generations. You saw *Oh Brother, Where art thou?*
-right?---that's what the songs were like. In the 1950s Harry made the
+right? --- that's what the songs were like. In the 1950s Harry made the
 most famous music mix of all time. He put all his favorite songs out on
 six records called *The Anthology of American Folk Music*. All the cool
 people in NYC and London listened to those records. They listened to the
@@ -52,15 +40,15 @@ because the guy who had written this song they loved so much had lived
 and died in a racist system, which meant none of them had even gotten to
 shake the fellow's hand. He was kind of a mysterious figure. Not much is
 known about him except he was blind because his mom threw a pan of lye
-(a cleaning chemical) in his face when he was a kid---hence the name. A
+(a cleaning chemical) in his face when he was a kid --- hence the name. A
 lot of the songs on the Anthology were about nasty things, things just
 as nasty as getting lye thrown in your face, but Blind Willie Johnson
 was deeply religious. His songs were mostly about God. It sometimes
-seemed like he stood with one foot planted on earth and the other on
+seemed like he stood with one foot planted on Earth and the other on
 some higher plane. Maybe he was a prophet. But even if he was just a
 poor, blind, devout dude with a gravelly voice, he recorded some of the
 most important songs in the history of humanity. One of his songs is
-actually on board the Voyager spacecraft---which became the first
+actually on board the Voyager spacecraft --- which became the first
 spacecraft to leave the solar system a couple of years ago. (And, also,
 is the evil alien force in Star Trek, The Motion Picture.)
 
