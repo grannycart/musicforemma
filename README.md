@@ -4,12 +4,13 @@
 
 ## How to read it:
 * Available to read on github pages here:
-	* [Music For Emma](http://grannycart.net/musicforemma/)
+	* [Music For Emma](http://grannycart.net/MusicForEmma/)
 * Or, compile from this source code using pandoc.
 	* (Or just read the straight markdown, available in source.)
 
 ## Notes
 * Music for Emma was originally written in Latex. I have since converted it to markdown. See the .md file. 
+* Original "source code" file: [MusicForEmma.md](MusicForEmma)
 
 ## Compilation notes:
 * Compiled using pandoc-ebook-template. For instructions see:

@@ -2,7 +2,7 @@
 author:
 - "Mark Torrey"
 date: November 2, 2014
-title: Music for Emma
+title: Music For Emma
 ---
 
 -----------------------------------------------------------------------

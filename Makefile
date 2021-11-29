@@ -5,7 +5,7 @@ BOOKNAME = MusicForEmma
 TITLE = title.txt
 METADATA = metadata.xml
 # Metadata is a part of the epub standard, even if it repeats stuff in the title file
-CHAPTERS = MusicforEmma.md
+CHAPTERS = MusicForEmma.md
 # I believe separate chapter files are just separated by a space --- see maintainer version to check
 # TOC = --toc --toc-depth=1 # Not using toc
 # COVER_IMAGE = cover/cover-Prospect-temp.png
