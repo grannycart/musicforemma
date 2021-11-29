@@ -1,0 +1,9 @@
+---
+title: Music For Emma
+author: Mark Torrey
+subtitle: A comprehensive history of 20th-Century pop music in the form of a mixtape.
+rights: © 2014 Mark Torrey, CC BY-NC-SA 
+# description: 
+# cover-image: ./cover/cover.png
+...
+
