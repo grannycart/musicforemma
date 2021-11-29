@@ -5,6 +5,8 @@ date: November 2, 2014
 title: Music for Emma
 ---
 
+-----------------------------------------------------------------------
+
 _This is a mix I made for my 15 year old sister Emma. At some point in her life Emma will be at a party full of cool smart people, and someone will ask her to pick some music to play. I would hope (as my sister) she would have the confidence to choose music in such a way that it jams the party right into the appropriate gear. The songs selected here are not obscure hidden gems, or challenging boundary pushers (not that there's anything wrong with boundary pushing), just some of my favorite tracks from some of the most important people in the history of pop music. But since I don't think it is fair to just dump music on someone and expect them to try to figure out why it is good, I wrote some brief descriptions to help fill in the story for her. This whole project is, by necessity, an exercise in hyperbole. Sorry about that._
 
 ## Blind Willie Johnson
@@ -413,6 +415,8 @@ because he likes playing music a lot, so maybe he doesn't always work
 as hard on the lyrics as he could.) But he has written at least a dozen
 world-class songs---as good as anything ever written. This one, **I See
 A Darkness**, was so good that Johnny Cash himself did a version of it.
+
+-----------------------------------------------------------------------
 
 _Since I originally wrote this list, I have realized that there were a few key entries that got left off. Most notably Prince and Queen. "But" you say, "what about Bob Dylan and David Bowie, surely they should be included, you even mention them a couple of times!" They are not included for the simple reason that Emma was already familiar with them.  And I have to draw the line somewhere. Maybe someday I will expand this list, or make a part 2._
 

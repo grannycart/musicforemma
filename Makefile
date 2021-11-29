@@ -44,29 +44,26 @@ $(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) $(CHAPTERS)
 # You need to add this switch and uncomment the cover file line at the top if you want a cover image: --epub-cover-image=$(COVER_IMAGE)
 	pandoc --css=$(CSS) --from markdown+smart --epub-metadata=$(METADATA) -o $@ $^
 
-$(BUILD)/html/$(BOOKNAME).html: title.txt $(CHAPTERS)
+$(BUILD)/html/$(BOOKNAME).html: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/html
-# the .html target needs the title.txt YAML metadata block for title, subtitle, author etc fields.
 	pandoc -s --from markdown+smart --to=html5 -o $@ $^
 
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
 	mkdir $(BUILD)/pdf
 #	Below with some latex options (-V) added.
-	pandoc -s --from markdown+smart --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
+	pandoc -s --from markdown+smart --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -V papersize=letter -o $@ $^
 
 $(BUILD)/latex/$(BOOKNAME).tex: $(TITLE) $(CHAPTERS)
 	mkdir $(BUILD)/latex
 #	Below with some latex options (-V) added.
-	pandoc -s --from markdown+smart --top-level-division=chapter -V documentclass=scrbook -V geometry:paperwidth=5.5in -V geometry:paperheight=8.25in -o $@ $^
+	pandoc -s --from markdown+smart -V documentclass=$(LATEX_CLASS) -V papersize=letter -o $@ $^
 
-$(BUILD)/txt/$(BOOKNAME).txt: $(TITLE) title.txt $(CHAPTERS)
+$(BUILD)/txt/$(BOOKNAME).txt: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/txt
-# the .txt target uses the title.txt YAML metadata block for title, subtitle, author etc fields --- even though it only includes it as YAML without formatting for a txt file.
 	pandoc -s --from markdown+smart -o $@ $^
 
-$(BUILD)/markdown/$(BOOKNAME).md: $(TITLE) title.txt $(CHAPTERS)
+$(BUILD)/markdown/$(BOOKNAME).md: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/markdown
-# the .md target uses the title.txt YAML metadata block for title, subtitle, author etc fields --- even though it only includes it as YAML without formatting for a md file.
 # markdown target just turns the chapters into a single, cleaned up md file --- good for github pages.
 	pandoc -s $(TOC) --from markdown+smart --to=markdown -o $@ $^
 
