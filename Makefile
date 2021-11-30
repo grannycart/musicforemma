@@ -40,13 +40,15 @@ md: $(BUILD)/markdown/$(BOOKNAME).md
 
 $(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/epub
-# Note: if you look at the original source from the maintainer for this ebook compiler they have a -S in these lines. That switch is deprecated in modern pandoc. I added the --from markdown+smart instead to the pandoc compile lines.
-# You need to add this switch and uncomment the cover file line at the top if you want a cover image: --epub-cover-image=$(COVER_IMAGE)
+# 	Note: if you look at the original source from the maintainer for this ebook compiler they have a -S in these lines. That switch is deprecated in modern pandoc. I added the --from markdown+smart instead to the pandoc compile lines.
+# 	You need to add this switch and uncomment the cover file line at the top if you want a cover image: --epub-cover-image=$(COVER_IMAGE)
 	pandoc --css=$(CSS) --from markdown+smart --epub-metadata=$(METADATA) -o $@ $^
 
 $(BUILD)/html/$(BOOKNAME).html: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/html
-	pandoc -s --from markdown+smart --to=html5 -o $@ $^
+#	pandoc.css does some nice clean latex-like formatting of html with css
+#	--self-contained tells pandoc to include the css code inside the html file, otherwise it just references the css file.
+	pandoc -s --self-contained --css=pandoc.css --from markdown+smart --to=html5 -o $@ $^
 
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
 	mkdir $(BUILD)/pdf
