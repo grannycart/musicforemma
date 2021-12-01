@@ -111,7 +111,7 @@ in love with. It is considered one of the greatest albums ever recorded
 
 Dolly Parton is one of the few people included in this list who is
 both a world-class singer and a world-class songwriter at the same
-time. Her singing is shocking---just listen to it---she has access
+time. Her singing is shocking --- just listen to it --- she has access
 to vocal registers that "cut you to the quick" as your old humbug
 wizard would say. Her voice just tears right through your sad little
 heart. But the thing that makes Dolly special is she pairs her voice
@@ -135,12 +135,12 @@ of magic I can't figure out, he made them matter a lot more. Sometimes
 even when the original song was *terrible*. My guess is his trick was
 using his stripped-down style to make other people's ridiculous and
 overly fancy songs, simple and sad (...or funny!) It didn't hurt that
-he had the mega-rock-star status thing going for him. This song, **A
-Boy Named Sue** was written by Shel Silverstein. (You remember that
-book *Where the Sidewalk Ends*?---same guy.) He played it for the first
+he had the mega-rock-star status thing going for him. This song, 
+**A Boy Named Sue** was written by Shel Silverstein. (You remember that
+book *Where the Sidewalk Ends*? --- same guy.) He played it for the first
 time in San Quentin prison. That part is in the movie. The second most
 important dude in the history of country music is Merle Haggard. He was
-*at* the show Johnny Cash played in San Quentin---because he was in
+*at* the show Johnny Cash played in San Quentin --- because he was in
 prison there.
 
 ## Nancy Sinatra
@@ -150,12 +150,12 @@ right?) Most people think she sings pretty well. (Though she's no Dolly
 Parton.) She sang more than one James Bond theme song. And she sang
 that song *These Boots Are Made For Walking*. I'm sure you've heard it.
 But like Johnny Cash, she didn't write most of her songs. (For a lot
-of performers back then, and even today, it's pretty normal to have
+of performers back then, and even today, it was pretty normal to have
 someone else write your songs.) She had a friend named Lee Hazlewood who
 wrote all of her most famous songs. And he *was* one of the great song
 writers. But he wasn't a terrific singer, so he usually got Nancy to
-sing for him (smart, huh?). More people know *These Boots Are Made For
-Walking*, but this song, **Sand**, is one of the best that Lee and Nancy
+sing for him (smart, huh?). More people know *These Boots Are Made For Walking*, 
+but this song, **Sand**, is one of the best that Lee and Nancy
 ever did together.
 
 ## Kraftwerk
@@ -173,7 +173,7 @@ were so cool. Any band you have ever heard with a keyboard in it, or a
 drum machine, or uses clips from other music, probably was listening
 to Kraftwerk at some point. This includes *all* the pop music from
 the 1980s, and *all* the dance music from the 1970s and 1980s. (Like,
-say, disco---maybe you've heard of that?) Remember, dance music is an
+say, disco --- maybe you've heard of that?) Remember, dance music is an
 enormous part of the history of music. Even *all* of the early rap and
 hip hop musicians were listening to Kraftwerk! For some reason the guys
 in the Bronx who started rapping in the 1980s (creating a whole new
@@ -210,7 +210,7 @@ Also in the 1970s (you had no idea the 1970s were so important to music,
 did you?) there was this guy Brian Eno. Brian Eno knew every musician
 in NYC and London. And they all wanted him to "produce" their albums.
 (That just means deciding which instruments to use on a song and how
-loud each instrument should be---turns out, this is important for making
+loud each instrument should be --- turns out, this is important for making
 a song sound good.) Eno was some kind of genius producer, as if God had
 reached down and tapped him on the head and said, "thou shalt produce!"
 He claimed not to know anything about music, but every album he touched
@@ -230,7 +230,7 @@ Donna Summer is famous for her disco songs. And what amazing disco songs
 they are! The lyrics aren't much, but her voice just soars. Her secret
 weapon though was a guy named Giorgio Moroder. He was another producer
 with a gift for turning other people's songs into pop hits. Not just
-ordinary pop hits---if you listen closely, the sounds he creates are
+ordinary pop hits --- if you listen closely, the sounds he creates are
 complicated and have lots of smaller sounds mushed together to create
 them. He used more electronics and computers than Brian Eno. His stuff
 sounded more like Kraftwerk. Many of the best songs of the disco era
@@ -251,12 +251,12 @@ there's anything wrong with that.) Patti Smith brought art and poetry
 and angry women to punk rock. Her songs are intense and full of imagery
 (like images of, say, horses.) And her band does the awesome thing where
 they start off soft and build up until you have to put your fingers in
-your ears and if you squint you can almost see raw energy pouring off
+your ears, and if you squint you can almost see raw energy pouring off
 the stage. Lots of the best bands do this kind of thing. She is another
 person who knew every famous person who passed through NYC in the 1970s.
 Bruce Springsteen thought she was so cool he gave her one of his best
 songs! (*Because The Night*.) This song, **Land**, is the centerpiece of
-her album *Horses*---one of the most important albums in the history of
+her album *Horses* --- one of the most important albums in the history of
 music.
 
 ## Talking Heads
@@ -317,8 +317,8 @@ they were just like all the other bands that sound like the Pogues.
 People like well-played music, but they *love* a catchy lyric and a good
 turn of phrase. This song, **Fairytale of NY**, is a duet with Kirsty
 MacColl (who sang with Talking Heads, remember?) Her voice is shocking.
-Particularly on the lines, "you could have been someone---well so could
-anyone!" (The producer did a trick on that part---the vocals are doubled
+Particularly on the lines, "you could have been someone --- well so could
+anyone!" (The producer did a trick on that part --- the vocals are doubled
 up so they sound like more than one person singing.) She died young,
 saving her son from being run over by a motorboat. Which makes that
 song, and that part of the song particularly, kind of sad. But kind of
@@ -352,17 +352,17 @@ like to live in the 1990s more than any other song written.
 In the 1990s popular rock music was getting boring. Everything kind
 of sounded the same, nobody was doing anything new. At the same time,
 popular hip-hop was just launching a period which would eventually
-change the arc of music history affecting people right up until today.
+change the arc of music history, affecting people right up until today.
 In the 1960s folk music changed everything. In the 2000s hip-hop changed
 everything. But before that happened, in the early 1990s, there was a
 battle going on in hip-hop between the East Coast (which mostly means
 NYC) and the West Coast (which mostly means Los Angeles). In 1993 the
 West Coast was winning. Their hip-hop was was serious and dark. Nothing
 the East Coast made could stand up to it. Until some dudes in NYC did
-what NYC always does---they got smart. Enter the Wu-Tang Clan. The
+what NYC always does --- they got smart. Enter the Wu-Tang Clan. The
 hip-hop band that eventually became Staten Island's greatest cultural
-export. They put out an album in 1994 called *Enter the Wu-Tang (36
-Chambers)* which changed the way hip-hop worked. Wu-Tang is yet another
+export. They put out an album in 1994 called *Enter the Wu-Tang (36 Chambers)* 
+which changed the way hip-hop worked. Wu-Tang is yet another
 group with the great idea of cramming as many super-talented people on
 stage as they could fit. Each member would take turns rapping a verse,
 and the verses were just as serious and dark as the Los Angeles stuff,
@@ -387,18 +387,18 @@ Heroin and sing loud songs. So that's what he did. For decades he was
 a crazy person. He had a gang of filthy brutes with thick Australian
 accents nobody could understand (and one German dude) and they wouldn't
 play their instruments so much as beat the crap out of them. But when
-you *could* understand what Nick was singing, your found astonishing and
+you *could* understand what Nick was singing, you found astonishing and
 beautiful dark lyrics which were scary, disturbing, gross, and romantic
 all at the same time. And oddly enough most of them were about God.
 Sometime in the 1990s he stopped doing Heroin and his style mellowed
 out a lot, and suddenly (since you could now understand what he was
-singing) everyone loved Nick Cave and his amazing lyrics. This song **I
-Let Love In** is from before that happened, but if you pay attention
+singing) everyone loved Nick Cave and his amazing lyrics. This song 
+**I Let Love In** is from before that happened, but if you pay attention
 to the lyrics you can see why people like him so much. There's only a
 handful of people in the history of music, maybe even entire the history
 of humanity, who can make a whole career of putting words to music in a
 way that makes the music transcend the words, and the words transcend
-the music at the same time---and the sum ends up greater than any of the
+the music at the same time --- and the sum ends up greater than any of the
 parts. (Most of them are somewhere on this list.) But Nick Cave is my
 favorite of them all.
 
@@ -414,8 +414,8 @@ big beard who sometimes sang about frightening things. He has made
 lots and lots of recordings and they aren't all amazing. (Largely
 because he likes playing music a lot, so maybe he doesn't always work
 as hard on the lyrics as he could.) But he has written at least a dozen
-world-class songs---as good as anything ever written. This one, **I See
-A Darkness**, was so good that Johnny Cash himself did a version of it.
+world-class songs --- as good as anything ever written. This one, 
+**I See A Darkness**, was so good that Johnny Cash himself did a version of it.
 
 -----------------------------------------------------------------------
 
@@ -423,5 +423,5 @@ _Since I originally wrote this list, I have realized that there were a few key e
 
 -----------------------------------------------------------------------
 
-["Source code" (it's just markdown) and licensing for Music For Emma](http://github.com/grannycart/musicforemma/)
+["Source code" (it's just markdown) and licensing](http://github.com/grannycart/musicforemma/) for Music For Emma
 
