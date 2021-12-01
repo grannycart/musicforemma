@@ -423,5 +423,5 @@ _Since I originally wrote this list, I have realized that there were a few key e
 
 -----------------------------------------------------------------------
 
-["Source code" (it's just markdown) and licensing](http://github.com/grannycart/musicforemma/) for Music For Emma
+["Source code"](http://github.com/grannycart/musicforemma/) (it's just markdown) and [licensing](https://github.com/grannycart/musicforemma/blob/main/LICENSE.txt) for Music For Emma
 
