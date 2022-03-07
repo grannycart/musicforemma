@@ -27,4 +27,8 @@
 	* See: [LICENSE](./LICENSE.txt)
 * Original Makefile is under an [MIT LICENSE](makefile-maintainer/MIT-LICENSE-original-maintainer.txt)
 
+## A couple of other random notes:
+* The old-version was in a separate git repo. I merged it into this one to retain the full history.
+* There exists a .zip file with all the tracks in .mp3. It is too big to include in the github repo.
+
 
