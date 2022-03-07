@@ -1,0 +1,87 @@
+Updated: 3/18/17
+
+I ditched the texfiles directory, and compiled without the css config file.
+I want to post this on tumblr now, so I'm trying to keep the html as simple as possible. 
+
+So this is compiled with:
+htlatex ./MusicforEmma.tex "marks-htlatex-plain-html.cfg,-css,NoFonts"
+
+the -css makes htlatex not use css (particularly span tags)
+The marks-htlatex-plain.cfg file just contains a couple of handlers for \textit \textbr and \emph which would otherwise have to handled with css. 
+basically all that is needed to get pretty simple html output out of htlatex.
+The outputted .html file is then dumped onto tumblr.
+
+At some point in the future if you want to use this to build a standalone web page for Music For Emma, see the directions below.
+
+----
+The musicforemma is intended to be not like other content on dynohub.net.
+This is just this one-off thing for emma.
+NOTE: because of the size of the tracks file, it is not included in the this git directory. It is only in the live html directory. Keep that in mind if you do any updates, and want to test locally or something.
+
+The rest of these notes are from my test-tex version, and are general to making the whole thing work.
+
+
+
+
+
+The basic setup here is that I created a git repository.
+Since that repository is sitting on Laughing Squid, there's no command line access and that prevents me from doing git push/pulls via ssh.
+However, you can mount the Laughing Squid drive as a fuse ssh local disk.
+That lets you run a git push "locally". Like: git push ~/dynohub.net/writing/gitdir.git
+
+This is good because the ssh drive mount will time out after a bit and lock up. So this lets you git pull a local copy, work on it, and then git push it via the locally mounted dir back up to the server. AND you get version control. Nice! It will compile a lot faster than if I compiled on the mounted drive too.
+
+I also keep the texfiles in a subdirectory, to be compiled separately. This is just to keep things clean. I create a symlink to the .tex file and run htlatex on that in the directory above to compile html
+
+
+
+
+
+In terms of html configuration massaging:
+To manually set the width of lines on a page, add this line to the top of the *.css file:
+
+html { max-width: 520px; margin: 0 auto; }
+
+But this can also be done by using the .cfg file with htlatex command (installed with the tex4ht deb package on ubuntu systems) like this:
+htlatex [something].tex [config file].cfg
+
+More information here:
+https://www.tug.org/applications/tex4ht/mn-commands.html
+
+The cfg file just inserts extra lines into the css file it creates. So you can use one to control a whole set of options, and get the same basic web page design every time.
+So once you have a cfg file that does what you want, you can just copy it to each new page, and get a uniform css style.
+
+I'm putting all images in the "graphics" directory. Conceptually, I will have to compile the html from the tex files in the "source code" directory, and then copy the final .html file to a live web page. In order to make it easier to bring along the stuff that will load with that file, I made the graphics dir. Conceivably, other things could end up in the graphics dir too.
+BUT in order for it to compile correctly with relative paths, the graphics directory has to live in the texfiles directory with the tex files.
+And then I created a symlink to the graphics directory.
+
+
+
+To start a new essay, start with an empty directory, do: git init --bare - and then copy that directory up to the server.
+Create a new local directory, 
+and copy from a previous essay these files:
+the .cfg file
+the .tex file (to use as a template)
+create a new texfiles subdirectory, and a graphics directory in there.
+copy the graphics symlink into the .html directory
+
+
+After you compile the file, and push it to dynohub.net/writing then you will want to make an active html directory to actually serve the compiled file. This is a list of all the files needed to make the musicforemma directory work:
+dynohub@joshua:~/dynohub.net/www.dynohub.net/web/content$ ls -alR musicforemma
+musicforemma:
+total 112268
+drwxr-xr-x 1 1368003 1635327      4096 Feb 17 22:21 .
+drwxr-x--- 1 1368003 1635327      4096 Feb 17 22:12 ..
+lrwxrwxrwx 1 1368003 1635327        19 Feb 17 22:21 index.html -> ./MusicforEmma.html
+-rwxr-xr-x 1 1368003 1635327      5911 Feb 17 21:59 MusicforEmma.css
+-rwxr-xr-x 1 1368003 1635327     31853 Feb 17 21:58 MusicforEmma.html
+-rwxr-xr-x 1 1368003 1635327 114901595 Oct 29 09:07 musicforemma-tracks.zip
+drwxr-xr-x 1 1368003 1635327      4096 Feb 17 22:23 texfiles
+
+musicforemma/texfiles:
+total 148
+drwxr-xr-x 1 1368003 1635327   4096 Feb 17 22:23 .
+drwxr-xr-x 1 1368003 1635327   4096 Feb 17 22:21 ..
+-rw-r--r-- 1 1368003 1635327 142276 Feb 17 22:23 MusicforEmma.pdf
+
+
